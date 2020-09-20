@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6B1A02E3-3FF4-4B56-86BA-409061F45680}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/Migrations/20200920174127_InitialCreate.Designer.cs">
+    <Files>
+      <File FileName="API/Controllers/ProductsController.cs" Line="4" Column="16" />
+      <File FileName="API/Startup.cs" Line="5" Column="16" />
+      <File FileName="Infrastructure/Data/Migrations/20200920174127_InitialCreate.Designer.cs" Line="2" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="skinet" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="20200920174127_InitialCreate.Designer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
