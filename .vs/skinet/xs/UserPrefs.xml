@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{6B1A02E3-3FF4-4B56-86BA-409061F45680}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
+    <Files>
+      <File FileName="API/Startup.cs" Line="60" Column="1" />
+      <File FileName="API/Extensions/SwaggerServiceExtensions.cs" Line="27" Column="16" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="skinet" expanded="True">
             <Node name="API" expanded="True">
+              <Node name="Extensions" expanded="True" />
               <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
