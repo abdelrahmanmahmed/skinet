@@ -1,10 +1,13 @@
 ﻿using System;
-namespace Core.Entities
+using Microsoft.AspNetCore.Identity;
+
+namespace Core.Entities.Identity
 {
-    public class AppUser
+    public class AppUser : IdentityUser
     {
-        public AppUser()
-        {
-        }
+        public string DisplayName { get; set; }
+
+
+        public Address Address { get; set; }
     }
 }
