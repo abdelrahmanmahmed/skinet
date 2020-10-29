@@ -7,15 +7,19 @@
             <Node name="API" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Dtos" expanded="True" />
-              <Node name="Extensions" expanded="True">
-                <Node name="SwaggerServiceExtensions.cs" selected="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="OrderItemUrlResolver.cs" selected="True" />
               </Node>
-              <Node name="Helpers" expanded="True" />
             </Node>
             <Node name="Core" expanded="True">
               <Node name="Entities" expanded="True">
-                <Node name="Identity" expanded="True" />
+                <Node name="OrderAggregate" expanded="True" />
               </Node>
+              <Node name="Specifications" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
