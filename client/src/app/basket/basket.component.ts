@@ -19,7 +19,7 @@ export class BasketComponent implements OnInit {
   }
 
   removeBasketItem(item: IBasketItem){
-    this.basketService.removeItemfromBasket(item);
+    this.basketService.removeItemFromBasket(item);
   }
 
   incrementItemQuantity(item: IBasketItem){

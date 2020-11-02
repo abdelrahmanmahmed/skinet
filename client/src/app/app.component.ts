@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
 
   loadCurrentUser(){
     const token = localStorage.getItem('token');
-    this.accountService.loadCurrntUser(token).subscribe(() => {
+    this.accountService.loadCurrentUser(token).subscribe(() => {
       console.log('Loaded user');
       // tslint:disable-next-line: no-shadowed-variable
       }, error => {
